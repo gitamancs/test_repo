@@ -1,0 +1,10 @@
+# config.yaml
+database:
+  username: "root"
+  password: "root"
+  host: "localhost"
+  port: 3306
+
+files:
+  # You can add file paths here if needed, e.g.,
+  # "processed_data": "path/to/processed_data.csv"
